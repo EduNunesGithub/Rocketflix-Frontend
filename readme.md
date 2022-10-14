@@ -4,7 +4,7 @@ Site feito como parte dos desafios de [Discover - Rocketseat](https://app.rocket
 
 Rocketflix é um site que busca um filme aleatório utilizando a API do The Movie Database.
 
-Foi construído com React e Componentizado com Material UI. Seu backend foi em Express com o Typescript.
+Foi construído com React e Componentizado com Material UI. Seu [backend](https://github.com/EduNunesGithub/Rocketflix-Backend) foi em Express com o Typescript.
 
 ### Screenshot
 
